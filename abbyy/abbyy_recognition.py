@@ -11,7 +11,7 @@ import StringIO
 import json
 
 import AbbyyOnlineSdk as abbyy
-#import local_settings as ls
+import local_settings as ls
 reload(ls)
 
 # <codecell>
@@ -46,7 +46,11 @@ settings.OutputFormat
 
 # <codecell>
 
-#settings.OutputFormat = 'xml'
+settings.OutputFormat = 'xml'
+
+# <codecell>
+
+doc_id = doc_files[0].split('.')[0]
 
 # <codecell>
 
@@ -58,31 +62,21 @@ processor.GetTaskStatus(task).Status
 
 # <codecell>
 
-processor.DownloadResult(task,os.path.join(os.getcwd(),'output.zip'))
+processor.DownloadResult(task,os.path.join(os.getcwd(),'output_{}.xml'.format(doc_id)))
 
 # <codecell>
 
-z = zipfile.ZipFile(open('output.zip'))
+!head output_8209580.xml
 
 # <codecell>
 
-z.namelist()
+#z = zipfile.ZipFile(open('output.zip'))
+#z.namelist()
 
 # <codecell>
 
-z.extractall()
-
-# <codecell>
-
-xd = xmltodict.parse(z.read('word/document.xml'))
-
-# <codecell>
-
-xd.keys()
-
-# <codecell>
-
-doc_files[0]
+xml_file = open(os.path.join(os.getcwd(),'output_{}.xml'.format(doc_id)))
+xd = xmltodict.parse(xml_file.read())
 
 # <codecell>
 
