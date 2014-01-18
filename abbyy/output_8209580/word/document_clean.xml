@@ -1,0 +1,1945 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w10="urn:schemas-microsoft-com:office:word">
+  <w:body>
+    <w:tbl>
+      <w:tblPr>
+        <w:tblOverlap w:val="never"/>
+        <w:tblLayout w:type="fixed"/>
+        <w:jc w:val="center"/>
+      </w:tblPr>
+      <w:tblGrid>
+        <w:gridCol w:w="1202"/>
+        <w:gridCol w:w="9583"/>
+        <w:gridCol w:w="3686"/>
+      </w:tblGrid>
+      <w:tr>
+        <w:trPr>
+          <w:trHeight w:val="1001" w:hRule="exact"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+            <w:gridSpan w:val="2"/>
+            <w:tcBorders>
+              <w:left w:val="single" w:sz="4"/>
+              <w:top w:val="single" w:sz="4"/>
+            </w:tcBorders>
+            <w:vAlign w:val="top"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="Style2"/>
+              <w:framePr w:w="14472" w:wrap="notBeside" w:vAnchor="text" w:hAnchor="text" w:xAlign="center" w:y="1"/>
+              <w:widowControl w:val="0"/>
+              <w:keepNext w:val="0"/>
+              <w:keepLines w:val="0"/>
+              <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+              <w:bidi w:val="0"/>
+              <w:jc w:val="left"/>
+              <w:spacing w:before="0" w:after="0" w:line="317" w:lineRule="exact"/>
+              <w:ind w:left="180" w:right="0" w:firstLine="0"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle4"/>
+              </w:rPr>
+              <w:t xml:space="preserve">UNITED STATES HOUSE OF REPRESENTATIVES </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle5"/>
+              </w:rPr>
+              <w:t xml:space="preserve">Form A </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle4"/>
+              </w:rPr>
+              <w:t xml:space="preserve">CALENDAR YEAr||B FINANCIAL DISCLOSURE STATEMENT </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle6"/>
+                <w:vertAlign w:val="superscript"/>
+              </w:rPr>
+              <w:t>For use b</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle6"/>
+              </w:rPr>
+              <w:t xml:space="preserve">v </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle5"/>
+              </w:rPr>
+              <w:t>Members, officers, and employees</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+            <w:vMerge w:val="restart"/>
+            <w:tcBorders>
+              <w:left w:val="single" w:sz="4"/>
+              <w:right w:val="single" w:sz="4"/>
+              <w:top w:val="single" w:sz="4"/>
+            </w:tcBorders>
+            <w:vAlign w:val="top"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="Style2"/>
+              <w:framePr w:w="14472" w:wrap="notBeside" w:vAnchor="text" w:hAnchor="text" w:xAlign="center" w:y="1"/>
+              <w:widowControl w:val="0"/>
+              <w:keepNext w:val="0"/>
+              <w:keepLines w:val="0"/>
+              <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+              <w:bidi w:val="0"/>
+              <w:jc w:val="left"/>
+              <w:spacing w:before="0" w:after="780" w:line="420" w:lineRule="exact"/>
+              <w:ind w:left="480" w:right="0" w:firstLine="0"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle7"/>
+              </w:rPr>
+              <w:t xml:space="preserve">HAND </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle6"/>
+              </w:rPr>
+              <w:t>DELWfcftED</w:t>
+            </w:r>
+          </w:p>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="Style2"/>
+              <w:framePr w:w="14472" w:wrap="notBeside" w:vAnchor="text" w:hAnchor="text" w:xAlign="center" w:y="1"/>
+              <w:widowControl w:val="0"/>
+              <w:keepNext w:val="0"/>
+              <w:keepLines w:val="0"/>
+              <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+              <w:bidi w:val="0"/>
+              <w:jc w:val="left"/>
+              <w:spacing w:before="780" w:after="180" w:line="230" w:lineRule="exact"/>
+              <w:ind w:left="480" w:right="0" w:firstLine="0"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle6"/>
+              </w:rPr>
+              <w:t>LEGISLATIVE RESOURCE CENTER</w:t>
+            </w:r>
+          </w:p>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="Style2"/>
+              <w:framePr w:w="14472" w:wrap="notBeside" w:vAnchor="text" w:hAnchor="text" w:xAlign="center" w:y="1"/>
+              <w:widowControl w:val="0"/>
+              <w:keepNext w:val="0"/>
+              <w:keepLines w:val="0"/>
+              <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+              <w:bidi w:val="0"/>
+              <w:jc w:val="left"/>
+              <w:spacing w:before="180" w:after="0" w:line="260" w:lineRule="exact"/>
+              <w:ind w:left="480" w:right="0" w:firstLine="0"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle8"/>
+              </w:rPr>
+              <w:t xml:space="preserve">Z0I3JAN </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle6"/>
+              </w:rPr>
+              <w:t xml:space="preserve">-2 PMI2:M» </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle9"/>
+              </w:rPr>
+              <w:t>yj</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:trPr>
+          <w:trHeight w:val="936" w:hRule="exact"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+            <w:gridSpan w:val="2"/>
+            <w:tcBorders>
+              <w:left w:val="single" w:sz="4"/>
+              <w:top w:val="single" w:sz="4"/>
+            </w:tcBorders>
+            <w:vAlign w:val="top"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="Style2"/>
+              <w:framePr w:w="14472" w:wrap="notBeside" w:vAnchor="text" w:hAnchor="text" w:xAlign="center" w:y="1"/>
+              <w:widowControl w:val="0"/>
+              <w:keepNext w:val="0"/>
+              <w:keepLines w:val="0"/>
+              <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+              <w:bidi w:val="0"/>
+              <w:jc w:val="left"/>
+              <w:spacing w:before="0" w:after="0" w:line="470" w:lineRule="exact"/>
+              <w:ind w:left="180" w:right="0" w:firstLine="0"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle4"/>
+              </w:rPr>
+              <w:t xml:space="preserve">Name: </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle6"/>
+              </w:rPr>
+              <w:t xml:space="preserve">/y </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle10"/>
+              </w:rPr>
+              <w:t xml:space="preserve">H </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle11"/>
+              </w:rPr>
+              <w:t xml:space="preserve">Otf </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle10"/>
+              </w:rPr>
+              <w:t>/</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle6"/>
+              </w:rPr>
+              <w:t xml:space="preserve"> C £ </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle4"/>
+              </w:rPr>
+              <w:t xml:space="preserve">/*// </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle10"/>
+              </w:rPr>
+              <w:t>k/c~ U &amp;/</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle6"/>
+              </w:rPr>
+              <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle4"/>
+              </w:rPr>
+              <w:t>Daytime Telephone:</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+            <w:vMerge/>
+            <w:tcBorders>
+              <w:left w:val="single" w:sz="4"/>
+              <w:right w:val="single" w:sz="4"/>
+            </w:tcBorders>
+            <w:vAlign w:val="top"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:framePr w:w="14472" w:wrap="notBeside" w:vAnchor="text" w:hAnchor="text" w:xAlign="center" w:y="1"/>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:trPr>
+          <w:trHeight w:val="518" w:hRule="exact"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+            <w:gridSpan w:val="2"/>
+            <w:tcBorders>
+              <w:left w:val="single" w:sz="4"/>
+              <w:top w:val="single" w:sz="4"/>
+            </w:tcBorders>
+            <w:vAlign w:val="top"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:framePr w:w="14472" w:wrap="notBeside" w:vAnchor="text" w:hAnchor="text" w:xAlign="center" w:y="1"/>
+              <w:widowControl w:val="0"/>
+              <w:rPr>
+                <w:sz w:val="10"/>
+                <w:szCs w:val="10"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+            <w:vMerge/>
+            <w:tcBorders>
+              <w:left w:val="single" w:sz="4"/>
+              <w:right w:val="single" w:sz="4"/>
+            </w:tcBorders>
+            <w:vAlign w:val="top"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:framePr w:w="14472" w:wrap="notBeside" w:vAnchor="text" w:hAnchor="text" w:xAlign="center" w:y="1"/>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:trPr>
+          <w:trHeight w:val="454" w:hRule="exact"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+            <w:tcBorders>
+              <w:left w:val="single" w:sz="4"/>
+              <w:top w:val="single" w:sz="4"/>
+            </w:tcBorders>
+            <w:vAlign w:val="top"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="Style2"/>
+              <w:framePr w:w="14472" w:wrap="notBeside" w:vAnchor="text" w:hAnchor="text" w:xAlign="center" w:y="1"/>
+              <w:widowControl w:val="0"/>
+              <w:keepNext w:val="0"/>
+              <w:keepLines w:val="0"/>
+              <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+              <w:bidi w:val="0"/>
+              <w:jc w:val="center"/>
+              <w:spacing w:before="0" w:after="0" w:line="170" w:lineRule="exact"/>
+              <w:ind w:left="0" w:right="0" w:firstLine="0"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle12"/>
+              </w:rPr>
+              <w:t>Flier</w:t>
+            </w:r>
+          </w:p>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="Style2"/>
+              <w:framePr w:w="14472" w:wrap="notBeside" w:vAnchor="text" w:hAnchor="text" w:xAlign="center" w:y="1"/>
+              <w:widowControl w:val="0"/>
+              <w:keepNext w:val="0"/>
+              <w:keepLines w:val="0"/>
+              <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+              <w:bidi w:val="0"/>
+              <w:jc w:val="right"/>
+              <w:spacing w:before="0" w:after="0" w:line="170" w:lineRule="exact"/>
+              <w:ind w:left="0" w:right="280" w:firstLine="0"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle12"/>
+              </w:rPr>
+              <w:t>Status</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+            <w:tcBorders>
+              <w:left w:val="single" w:sz="4"/>
+              <w:top w:val="single" w:sz="4"/>
+            </w:tcBorders>
+            <w:vAlign w:val="top"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="Style2"/>
+              <w:framePr w:w="14472" w:wrap="notBeside" w:vAnchor="text" w:hAnchor="text" w:xAlign="center" w:y="1"/>
+              <w:widowControl w:val="0"/>
+              <w:keepNext w:val="0"/>
+              <w:keepLines w:val="0"/>
+              <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+              <w:bidi w:val="0"/>
+              <w:jc w:val="left"/>
+              <w:spacing w:before="0" w:after="0" w:line="216" w:lineRule="exact"/>
+              <w:ind w:left="80" w:right="0" w:firstLine="0"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle6"/>
+              </w:rPr>
+              <w:t xml:space="preserve">r^71 </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle5"/>
+              </w:rPr>
+              <w:t xml:space="preserve">Msmhftr nf the </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle13"/>
+              </w:rPr>
+              <w:t xml:space="preserve">U.S. </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle6"/>
+              </w:rPr>
+              <w:t xml:space="preserve">State' Y </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle14"/>
+                <w:lang w:val="en-US"/>
+              </w:rPr>
+              <w:t>4</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle5"/>
+              </w:rPr>
+              <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle6"/>
+              </w:rPr>
+              <w:t xml:space="preserve">Cfc. 1 </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle13"/>
+              </w:rPr>
+              <w:t xml:space="preserve">Offinpr nr Fmplnyinrj </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle5"/>
+              </w:rPr>
+              <w:t xml:space="preserve">nffira' </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle6"/>
+              </w:rPr>
+              <w:t xml:space="preserve">1 1 </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle5"/>
+              </w:rPr>
+              <w:t xml:space="preserve">House of Representatives District: </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle6"/>
+              </w:rPr>
+              <w:t xml:space="preserve">1 </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle5"/>
+              </w:rPr>
+              <w:t>Employee</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+            <w:vMerge w:val="restart"/>
+            <w:tcBorders>
+              <w:left w:val="single" w:sz="4"/>
+              <w:right w:val="single" w:sz="4"/>
+              <w:top w:val="single" w:sz="4"/>
+            </w:tcBorders>
+            <w:vAlign w:val="top"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="Style2"/>
+              <w:framePr w:w="14472" w:wrap="notBeside" w:vAnchor="text" w:hAnchor="text" w:xAlign="center" w:y="1"/>
+              <w:widowControl w:val="0"/>
+              <w:keepNext w:val="0"/>
+              <w:keepLines w:val="0"/>
+              <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+              <w:bidi w:val="0"/>
+              <w:jc w:val="both"/>
+              <w:spacing w:before="0" w:after="0" w:line="245" w:lineRule="exact"/>
+              <w:ind w:left="0" w:right="0" w:firstLine="0"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle10"/>
+              </w:rPr>
+              <w:t>A $200 penalty shall be assessed against anyone who filea more than 30 days late.</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:trPr>
+          <w:trHeight w:val="511" w:hRule="exact"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+            <w:tcBorders>
+              <w:left w:val="single" w:sz="4"/>
+              <w:top w:val="single" w:sz="4"/>
+              <w:bottom w:val="single" w:sz="4"/>
+            </w:tcBorders>
+            <w:vAlign w:val="top"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="Style2"/>
+              <w:framePr w:w="14472" w:wrap="notBeside" w:vAnchor="text" w:hAnchor="text" w:xAlign="center" w:y="1"/>
+              <w:widowControl w:val="0"/>
+              <w:keepNext w:val="0"/>
+              <w:keepLines w:val="0"/>
+              <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+              <w:bidi w:val="0"/>
+              <w:jc w:val="right"/>
+              <w:spacing w:before="0" w:after="0" w:line="170" w:lineRule="exact"/>
+              <w:ind w:left="0" w:right="280" w:firstLine="0"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle12"/>
+              </w:rPr>
+              <w:t>Report</w:t>
+            </w:r>
+          </w:p>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="Style2"/>
+              <w:framePr w:w="14472" w:wrap="notBeside" w:vAnchor="text" w:hAnchor="text" w:xAlign="center" w:y="1"/>
+              <w:widowControl w:val="0"/>
+              <w:keepNext w:val="0"/>
+              <w:keepLines w:val="0"/>
+              <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+              <w:bidi w:val="0"/>
+              <w:jc w:val="center"/>
+              <w:spacing w:before="0" w:after="0" w:line="170" w:lineRule="exact"/>
+              <w:ind w:left="0" w:right="0" w:firstLine="0"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle12"/>
+              </w:rPr>
+              <w:t>Type</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+            <w:tcBorders>
+              <w:left w:val="single" w:sz="4"/>
+              <w:top w:val="single" w:sz="4"/>
+              <w:bottom w:val="single" w:sz="4"/>
+            </w:tcBorders>
+            <w:vAlign w:val="top"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="Style2"/>
+              <w:framePr w:w="14472" w:wrap="notBeside" w:vAnchor="text" w:hAnchor="text" w:xAlign="center" w:y="1"/>
+              <w:widowControl w:val="0"/>
+              <w:keepNext w:val="0"/>
+              <w:keepLines w:val="0"/>
+              <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+              <w:bidi w:val="0"/>
+              <w:jc w:val="left"/>
+              <w:spacing w:before="0" w:after="0" w:line="360" w:lineRule="exact"/>
+              <w:ind w:left="80" w:right="0" w:firstLine="0"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle15"/>
+              </w:rPr>
+              <w:t xml:space="preserve">| </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle6"/>
+              </w:rPr>
+              <w:t xml:space="preserve">I </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle15"/>
+              </w:rPr>
+              <w:t xml:space="preserve">Annual (May </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle5"/>
+              </w:rPr>
+              <w:t xml:space="preserve">15, 2012) </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle15"/>
+              </w:rPr>
+              <w:t xml:space="preserve">Amendment </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle16"/>
+              </w:rPr>
+              <w:t>j/\</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle15"/>
+              </w:rPr>
+              <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle15"/>
+                <w:vertAlign w:val="subscript"/>
+              </w:rPr>
+              <w:t>T</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle15"/>
+              </w:rPr>
+              <w:t>«,min»ti</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle15"/>
+                <w:vertAlign w:val="subscript"/>
+              </w:rPr>
+              <w:t>n</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle15"/>
+              </w:rPr>
+              <w:t xml:space="preserve">n''3l^a’" </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle6"/>
+              </w:rPr>
+              <w:t>^ 13</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+            <w:vMerge/>
+            <w:tcBorders>
+              <w:left w:val="single" w:sz="4"/>
+              <w:right w:val="single" w:sz="4"/>
+              <w:bottom w:val="single" w:sz="4"/>
+            </w:tcBorders>
+            <w:vAlign w:val="top"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:framePr w:w="14472" w:wrap="notBeside" w:vAnchor="text" w:hAnchor="text" w:xAlign="center" w:y="1"/>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+      </w:tr>
+    </w:tbl>
+    <w:p>
+      <w:pPr>
+        <w:widowControl w:val="0"/>
+        <w:rPr>
+          <w:sz w:val="2"/>
+          <w:szCs w:val="2"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="Style17"/>
+        <w:widowControl w:val="0"/>
+        <w:keepNext/>
+        <w:keepLines/>
+        <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        <w:bidi w:val="0"/>
+        <w:jc w:val="left"/>
+        <w:spacing w:before="46" w:after="6" w:line="270" w:lineRule="exact"/>
+        <w:ind w:left="20" w:right="0" w:firstLine="0"/>
+      </w:pPr>
+      <w:bookmarkStart w:id="0" w:name="bookmark0"/>
+      <w:r>
+        <w:rPr>
+          <w:lang w:val="en-US"/>
+          <w:w w:val="100"/>
+          <w:color w:val="000000"/>
+          <w:position w:val="0"/>
+        </w:rPr>
+        <w:t xml:space="preserve">PRELIMINARY INFORMATION — ANSWER </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rStyle w:val="CharStyle19"/>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+        <w:t>EACH</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:lang w:val="en-US"/>
+          <w:w w:val="100"/>
+          <w:color w:val="000000"/>
+          <w:position w:val="0"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> OF THESE QUESTIONS</w:t>
+      </w:r>
+      <w:bookmarkEnd w:id="0"/>
+    </w:p>
+    <w:tbl>
+      <w:tblPr>
+        <w:tblOverlap w:val="never"/>
+        <w:tblLayout w:type="fixed"/>
+        <w:jc w:val="center"/>
+      </w:tblPr>
+      <w:tblGrid>
+        <w:gridCol w:w="7186"/>
+        <w:gridCol w:w="7193"/>
+      </w:tblGrid>
+      <w:tr>
+        <w:trPr>
+          <w:trHeight w:val="778" w:hRule="exact"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+            <w:tcBorders>
+              <w:left w:val="single" w:sz="4"/>
+              <w:top w:val="single" w:sz="4"/>
+            </w:tcBorders>
+            <w:vAlign w:val="top"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="Style2"/>
+              <w:framePr w:w="14378" w:wrap="notBeside" w:vAnchor="text" w:hAnchor="text" w:xAlign="center" w:y="1"/>
+              <w:widowControl w:val="0"/>
+              <w:keepNext w:val="0"/>
+              <w:keepLines w:val="0"/>
+              <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+              <w:bidi w:val="0"/>
+              <w:jc w:val="both"/>
+              <w:spacing w:before="0" w:after="0" w:line="180" w:lineRule="exact"/>
+              <w:ind w:left="0" w:right="0" w:firstLine="0"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle5"/>
+              </w:rPr>
+              <w:t xml:space="preserve">I. Did you or your spouse have "earned" income {e.g., salaries or „ fees) of $200 or more from any source in the reporting period? </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle5"/>
+                <w:vertAlign w:val="subscript"/>
+              </w:rPr>
+              <w:t>v</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle5"/>
+              </w:rPr>
+              <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle20"/>
+              </w:rPr>
+              <w:t>r™l 1</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle5"/>
+              </w:rPr>
+              <w:t xml:space="preserve">. </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle10"/>
+              </w:rPr>
+              <w:t xml:space="preserve">n </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle20"/>
+              </w:rPr>
+              <w:t xml:space="preserve">If yes, complete and attach Schedule I. </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle20"/>
+                <w:vertAlign w:val="superscript"/>
+              </w:rPr>
+              <w:t>Yes</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle20"/>
+              </w:rPr>
+              <w:t xml:space="preserve"> [__| </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle20"/>
+                <w:vertAlign w:val="superscript"/>
+              </w:rPr>
+              <w:t>NO</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle20"/>
+              </w:rPr>
+              <w:t xml:space="preserve"> I VI</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+            <w:tcBorders>
+              <w:left w:val="single" w:sz="4"/>
+              <w:right w:val="single" w:sz="4"/>
+              <w:top w:val="single" w:sz="4"/>
+            </w:tcBorders>
+            <w:vAlign w:val="top"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="Style2"/>
+              <w:framePr w:w="14378" w:wrap="notBeside" w:vAnchor="text" w:hAnchor="text" w:xAlign="center" w:y="1"/>
+              <w:widowControl w:val="0"/>
+              <w:keepNext w:val="0"/>
+              <w:keepLines w:val="0"/>
+              <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+              <w:bidi w:val="0"/>
+              <w:jc w:val="left"/>
+              <w:spacing w:before="0" w:after="0" w:line="180" w:lineRule="exact"/>
+              <w:ind w:left="140" w:right="0" w:firstLine="0"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle5"/>
+              </w:rPr>
+              <w:t>VI. Did you, your spouse, or a dependent child receive any</w:t>
+            </w:r>
+          </w:p>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="Style2"/>
+              <w:framePr w:w="14378" w:wrap="notBeside" w:vAnchor="text" w:hAnchor="text" w:xAlign="center" w:y="1"/>
+              <w:widowControl w:val="0"/>
+              <w:keepNext w:val="0"/>
+              <w:keepLines w:val="0"/>
+              <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+              <w:bidi w:val="0"/>
+              <w:jc w:val="left"/>
+              <w:spacing w:before="0" w:after="0" w:line="180" w:lineRule="exact"/>
+              <w:ind w:left="140" w:right="0" w:firstLine="0"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle5"/>
+              </w:rPr>
+              <w:t xml:space="preserve">reportable gift in the reporting period (i.e., aggregating more </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle20"/>
+                <w:vertAlign w:val="subscript"/>
+              </w:rPr>
+              <w:t>Vfle</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle20"/>
+              </w:rPr>
+              <w:t xml:space="preserve">l </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle21"/>
+                <w:lang w:val="en-US"/>
+              </w:rPr>
+              <w:t>1</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle20"/>
+              </w:rPr>
+              <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle20"/>
+                <w:vertAlign w:val="subscript"/>
+              </w:rPr>
+              <w:t>Ma</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle20"/>
+              </w:rPr>
+              <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle5"/>
+              </w:rPr>
+              <w:t xml:space="preserve">than $350 and not otherwise exempt)? </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle20"/>
+                <w:vertAlign w:val="superscript"/>
+              </w:rPr>
+              <w:t>es</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle20"/>
+              </w:rPr>
+              <w:t xml:space="preserve"> 1 1 </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle22"/>
+                <w:vertAlign w:val="superscript"/>
+              </w:rPr>
+              <w:t>no</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle20"/>
+              </w:rPr>
+              <w:t xml:space="preserve"> I VI If ves. complete and attach Schedule VI.</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:trPr>
+          <w:trHeight w:val="763" w:hRule="exact"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+            <w:tcBorders>
+              <w:left w:val="single" w:sz="4"/>
+              <w:top w:val="single" w:sz="4"/>
+            </w:tcBorders>
+            <w:vAlign w:val="top"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="Style2"/>
+              <w:framePr w:w="14378" w:wrap="notBeside" w:vAnchor="text" w:hAnchor="text" w:xAlign="center" w:y="1"/>
+              <w:widowControl w:val="0"/>
+              <w:keepNext w:val="0"/>
+              <w:keepLines w:val="0"/>
+              <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+              <w:bidi w:val="0"/>
+              <w:jc w:val="both"/>
+              <w:spacing w:before="0" w:after="0" w:line="180" w:lineRule="exact"/>
+              <w:ind w:left="0" w:right="0" w:firstLine="0"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle5"/>
+              </w:rPr>
+              <w:t>II. Did any individual or organization make a donation to charity in</w:t>
+            </w:r>
+          </w:p>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="Style2"/>
+              <w:framePr w:w="14378" w:wrap="notBeside" w:vAnchor="text" w:hAnchor="text" w:xAlign="center" w:y="1"/>
+              <w:widowControl w:val="0"/>
+              <w:keepNext w:val="0"/>
+              <w:keepLines w:val="0"/>
+              <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+              <w:bidi w:val="0"/>
+              <w:jc w:val="both"/>
+              <w:spacing w:before="0" w:after="0" w:line="180" w:lineRule="exact"/>
+              <w:ind w:left="0" w:right="0" w:firstLine="0"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle5"/>
+              </w:rPr>
+              <w:t xml:space="preserve">lieu of paying you for a speech, appearance, or article in the </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle5"/>
+                <w:vertAlign w:val="subscript"/>
+              </w:rPr>
+              <w:t>v</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle5"/>
+              </w:rPr>
+              <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle20"/>
+              </w:rPr>
+              <w:t>|““| «•_ P/I</w:t>
+            </w:r>
+          </w:p>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="Style2"/>
+              <w:framePr w:w="14378" w:wrap="notBeside" w:vAnchor="text" w:hAnchor="text" w:xAlign="center" w:y="1"/>
+              <w:tabs>
+                <w:tab w:leader="underscore" w:pos="5767" w:val="left"/>
+              </w:tabs>
+              <w:widowControl w:val="0"/>
+              <w:keepNext w:val="0"/>
+              <w:keepLines w:val="0"/>
+              <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+              <w:bidi w:val="0"/>
+              <w:jc w:val="both"/>
+              <w:spacing w:before="0" w:after="0" w:line="180" w:lineRule="exact"/>
+              <w:ind w:left="0" w:right="0" w:firstLine="0"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle5"/>
+              </w:rPr>
+              <w:t xml:space="preserve">reporting period? </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle20"/>
+                <w:vertAlign w:val="superscript"/>
+              </w:rPr>
+              <w:t>Yes</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle20"/>
+              </w:rPr>
+              <w:t xml:space="preserve"> 1</w:t>
+              <w:tab/>
+              <w:t xml:space="preserve">1 </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle20"/>
+                <w:vertAlign w:val="superscript"/>
+              </w:rPr>
+              <w:t>No</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle20"/>
+              </w:rPr>
+              <w:t xml:space="preserve"> |V|</w:t>
+            </w:r>
+          </w:p>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="Style2"/>
+              <w:framePr w:w="14378" w:wrap="notBeside" w:vAnchor="text" w:hAnchor="text" w:xAlign="center" w:y="1"/>
+              <w:widowControl w:val="0"/>
+              <w:keepNext w:val="0"/>
+              <w:keepLines w:val="0"/>
+              <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+              <w:bidi w:val="0"/>
+              <w:jc w:val="both"/>
+              <w:spacing w:before="0" w:after="0" w:line="180" w:lineRule="exact"/>
+              <w:ind w:left="0" w:right="0" w:firstLine="0"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle20"/>
+              </w:rPr>
+              <w:t>If yes, complete and attach Schedule II.</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+            <w:tcBorders>
+              <w:left w:val="single" w:sz="4"/>
+              <w:right w:val="single" w:sz="4"/>
+              <w:top w:val="single" w:sz="4"/>
+            </w:tcBorders>
+            <w:vAlign w:val="top"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="Style2"/>
+              <w:framePr w:w="14378" w:wrap="notBeside" w:vAnchor="text" w:hAnchor="text" w:xAlign="center" w:y="1"/>
+              <w:widowControl w:val="0"/>
+              <w:keepNext w:val="0"/>
+              <w:keepLines w:val="0"/>
+              <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+              <w:bidi w:val="0"/>
+              <w:jc w:val="left"/>
+              <w:spacing w:before="0" w:after="0" w:line="180" w:lineRule="exact"/>
+              <w:ind w:left="140" w:right="0" w:firstLine="0"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle20"/>
+              </w:rPr>
+              <w:t xml:space="preserve">VII. </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle5"/>
+              </w:rPr>
+              <w:t xml:space="preserve">Did you, your spouse, or a dependent child receive any </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle23"/>
+              </w:rPr>
+              <w:t xml:space="preserve">j </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle5"/>
+              </w:rPr>
+              <w:t xml:space="preserve">reportable travel or reimbursements for travel in the reporting </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle5"/>
+                <w:vertAlign w:val="subscript"/>
+              </w:rPr>
+              <w:t>Yo</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle5"/>
+              </w:rPr>
+              <w:t xml:space="preserve">_ </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle21"/>
+                <w:lang w:val="en-US"/>
+              </w:rPr>
+              <w:t>1</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle20"/>
+              </w:rPr>
+              <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle21"/>
+                <w:lang w:val="en-US"/>
+              </w:rPr>
+              <w:t>1</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle20"/>
+              </w:rPr>
+              <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle5"/>
+                <w:vertAlign w:val="subscript"/>
+              </w:rPr>
+              <w:t>N</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle5"/>
+              </w:rPr>
+              <w:t xml:space="preserve"> period (worth more than $350 from one source)? </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle20"/>
+              </w:rPr>
+              <w:t>° MTI If ves, complete and attach Schedule VII.</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:trPr>
+          <w:trHeight w:val="763" w:hRule="exact"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+            <w:tcBorders>
+              <w:left w:val="single" w:sz="4"/>
+              <w:top w:val="single" w:sz="4"/>
+            </w:tcBorders>
+            <w:vAlign w:val="top"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="Style2"/>
+              <w:framePr w:w="14378" w:wrap="notBeside" w:vAnchor="text" w:hAnchor="text" w:xAlign="center" w:y="1"/>
+              <w:widowControl w:val="0"/>
+              <w:keepNext w:val="0"/>
+              <w:keepLines w:val="0"/>
+              <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+              <w:bidi w:val="0"/>
+              <w:jc w:val="both"/>
+              <w:spacing w:before="0" w:after="0" w:line="180" w:lineRule="exact"/>
+              <w:ind w:left="0" w:right="0" w:firstLine="0"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle5"/>
+              </w:rPr>
+              <w:t xml:space="preserve">III. Did you, your spouse, or a dependent child receive "unearned" Ji income of more than $200 in the reporting period or hold any </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle20"/>
+              </w:rPr>
+              <w:t xml:space="preserve">yes 1 1 No |\/| </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle5"/>
+              </w:rPr>
+              <w:t xml:space="preserve">reportable asset worth more than </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle24"/>
+              </w:rPr>
+              <w:t>$1</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle5"/>
+              </w:rPr>
+              <w:t xml:space="preserve">,000 at the end of the period? </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle25"/>
+              </w:rPr>
+              <w:t xml:space="preserve">J |Jj </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle20"/>
+              </w:rPr>
+              <w:t>If yes, complete and attach Schedule III.</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+            <w:tcBorders>
+              <w:left w:val="single" w:sz="4"/>
+              <w:right w:val="single" w:sz="4"/>
+              <w:top w:val="single" w:sz="4"/>
+            </w:tcBorders>
+            <w:vAlign w:val="top"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="Style2"/>
+              <w:framePr w:w="14378" w:wrap="notBeside" w:vAnchor="text" w:hAnchor="text" w:xAlign="center" w:y="1"/>
+              <w:widowControl w:val="0"/>
+              <w:keepNext w:val="0"/>
+              <w:keepLines w:val="0"/>
+              <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+              <w:bidi w:val="0"/>
+              <w:jc w:val="both"/>
+              <w:spacing w:before="0" w:after="0" w:line="180" w:lineRule="exact"/>
+              <w:ind w:left="0" w:right="0" w:firstLine="0"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle20"/>
+              </w:rPr>
+              <w:t xml:space="preserve">VIII. </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle5"/>
+              </w:rPr>
+              <w:t xml:space="preserve">Did you hold any reportable positions on or before the date - </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle25"/>
+              </w:rPr>
+              <w:t xml:space="preserve">_j </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle5"/>
+              </w:rPr>
+              <w:t xml:space="preserve">of filing in the current calendar year? </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle20"/>
+              </w:rPr>
+              <w:t xml:space="preserve">Yes I I No I </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle25"/>
+              </w:rPr>
+              <w:t xml:space="preserve">\ </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle26"/>
+              </w:rPr>
+              <w:t xml:space="preserve">A </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle20"/>
+              </w:rPr>
+              <w:t xml:space="preserve">If yes, complete end attach Schedule VIII. </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle25"/>
+              </w:rPr>
+              <w:t>l_J L--I</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:trPr>
+          <w:trHeight w:val="756" w:hRule="exact"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+            <w:tcBorders>
+              <w:left w:val="single" w:sz="4"/>
+              <w:top w:val="single" w:sz="4"/>
+            </w:tcBorders>
+            <w:vAlign w:val="top"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="Style2"/>
+              <w:framePr w:w="14378" w:wrap="notBeside" w:vAnchor="text" w:hAnchor="text" w:xAlign="center" w:y="1"/>
+              <w:widowControl w:val="0"/>
+              <w:keepNext w:val="0"/>
+              <w:keepLines w:val="0"/>
+              <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+              <w:bidi w:val="0"/>
+              <w:jc w:val="both"/>
+              <w:spacing w:before="0" w:after="0" w:line="180" w:lineRule="exact"/>
+              <w:ind w:left="0" w:right="0" w:firstLine="0"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle5"/>
+              </w:rPr>
+              <w:t xml:space="preserve">IV. Did you, your spouse, or a dependent child purchase, sell, __ </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle25"/>
+              </w:rPr>
+              <w:t xml:space="preserve">_^l </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle5"/>
+              </w:rPr>
+              <w:t xml:space="preserve">or exchange any reportable asset in a transaction exceeding </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle20"/>
+              </w:rPr>
+              <w:t>Yes 1 1 No | v/</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle24"/>
+              </w:rPr>
+              <w:t>1 $1</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle5"/>
+              </w:rPr>
+              <w:t xml:space="preserve">,000 during the reporting period? </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle25"/>
+              </w:rPr>
+              <w:t xml:space="preserve">LJ l_U </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle20"/>
+              </w:rPr>
+              <w:t>If ves. comolete and attach Schedule IV.</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+            <w:tcBorders>
+              <w:left w:val="single" w:sz="4"/>
+              <w:right w:val="single" w:sz="4"/>
+              <w:top w:val="single" w:sz="4"/>
+            </w:tcBorders>
+            <w:vAlign w:val="top"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="Style2"/>
+              <w:framePr w:w="14378" w:wrap="notBeside" w:vAnchor="text" w:hAnchor="text" w:xAlign="center" w:y="1"/>
+              <w:widowControl w:val="0"/>
+              <w:keepNext w:val="0"/>
+              <w:keepLines w:val="0"/>
+              <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+              <w:bidi w:val="0"/>
+              <w:jc w:val="left"/>
+              <w:spacing w:before="0" w:after="0" w:line="170" w:lineRule="exact"/>
+              <w:ind w:left="140" w:right="0" w:firstLine="0"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle5"/>
+              </w:rPr>
+              <w:t>IX. Did you have any reportable agreement or arrangement with</w:t>
+            </w:r>
+          </w:p>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="Style2"/>
+              <w:framePr w:w="14378" w:wrap="notBeside" w:vAnchor="text" w:hAnchor="text" w:xAlign="center" w:y="1"/>
+              <w:widowControl w:val="0"/>
+              <w:keepNext w:val="0"/>
+              <w:keepLines w:val="0"/>
+              <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+              <w:bidi w:val="0"/>
+              <w:jc w:val="left"/>
+              <w:spacing w:before="0" w:after="0" w:line="158" w:lineRule="exact"/>
+              <w:ind w:left="140" w:right="0" w:firstLine="0"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle5"/>
+              </w:rPr>
+              <w:t xml:space="preserve">an outside entity? </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle20"/>
+              </w:rPr>
+              <w:t xml:space="preserve">Yes II No |7I If yes, complete and attach Schedule IX. </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle25"/>
+              </w:rPr>
+              <w:t>L -J LJ</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:trPr>
+          <w:trHeight w:val="698" w:hRule="exact"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+            <w:tcBorders>
+              <w:left w:val="single" w:sz="4"/>
+              <w:top w:val="single" w:sz="4"/>
+              <w:bottom w:val="single" w:sz="4"/>
+            </w:tcBorders>
+            <w:vAlign w:val="top"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="Style2"/>
+              <w:framePr w:w="14378" w:wrap="notBeside" w:vAnchor="text" w:hAnchor="text" w:xAlign="center" w:y="1"/>
+              <w:widowControl w:val="0"/>
+              <w:keepNext w:val="0"/>
+              <w:keepLines w:val="0"/>
+              <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+              <w:bidi w:val="0"/>
+              <w:jc w:val="both"/>
+              <w:spacing w:before="0" w:after="0" w:line="180" w:lineRule="exact"/>
+              <w:ind w:left="0" w:right="0" w:firstLine="0"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle5"/>
+              </w:rPr>
+              <w:t>V. Did you, your spouse, or a dependent child have any reportable</w:t>
+            </w:r>
+          </w:p>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="Style2"/>
+              <w:framePr w:w="14378" w:wrap="notBeside" w:vAnchor="text" w:hAnchor="text" w:xAlign="center" w:y="1"/>
+              <w:widowControl w:val="0"/>
+              <w:keepNext w:val="0"/>
+              <w:keepLines w:val="0"/>
+              <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+              <w:bidi w:val="0"/>
+              <w:jc w:val="both"/>
+              <w:spacing w:before="0" w:after="0" w:line="180" w:lineRule="exact"/>
+              <w:ind w:left="0" w:right="0" w:firstLine="0"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle5"/>
+              </w:rPr>
+              <w:t xml:space="preserve">liability (more than $10,000) during the reporting period? </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle4"/>
+              </w:rPr>
+              <w:t xml:space="preserve">Yes </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle20"/>
+              </w:rPr>
+              <w:t xml:space="preserve">1 1 No </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle27"/>
+              </w:rPr>
+              <w:t>\s/\</w:t>
+            </w:r>
+          </w:p>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="Style2"/>
+              <w:framePr w:w="14378" w:wrap="notBeside" w:vAnchor="text" w:hAnchor="text" w:xAlign="center" w:y="1"/>
+              <w:widowControl w:val="0"/>
+              <w:keepNext w:val="0"/>
+              <w:keepLines w:val="0"/>
+              <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+              <w:bidi w:val="0"/>
+              <w:jc w:val="both"/>
+              <w:spacing w:before="0" w:after="0" w:line="180" w:lineRule="exact"/>
+              <w:ind w:left="0" w:right="0" w:firstLine="0"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle20"/>
+              </w:rPr>
+              <w:t>If yea, complete and attach Schedule V. 1—1 1 1</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+            <w:tcBorders>
+              <w:left w:val="single" w:sz="4"/>
+              <w:right w:val="single" w:sz="4"/>
+              <w:top w:val="single" w:sz="4"/>
+              <w:bottom w:val="single" w:sz="4"/>
+            </w:tcBorders>
+            <w:vAlign w:val="top"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="Style2"/>
+              <w:framePr w:w="14378" w:wrap="notBeside" w:vAnchor="text" w:hAnchor="text" w:xAlign="center" w:y="1"/>
+              <w:widowControl w:val="0"/>
+              <w:keepNext w:val="0"/>
+              <w:keepLines w:val="0"/>
+              <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+              <w:bidi w:val="0"/>
+              <w:jc w:val="left"/>
+              <w:spacing w:before="0" w:after="0" w:line="259" w:lineRule="exact"/>
+              <w:ind w:left="480" w:right="0" w:firstLine="0"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle4"/>
+              </w:rPr>
+              <w:t>Each question in this part must be answered and the appropriate schedule attached for each “Yes” response.</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+    </w:tbl>
+    <w:p>
+      <w:pPr>
+        <w:widowControl w:val="0"/>
+        <w:rPr>
+          <w:sz w:val="2"/>
+          <w:szCs w:val="2"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="Style17"/>
+        <w:widowControl w:val="0"/>
+        <w:keepNext/>
+        <w:keepLines/>
+        <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        <w:bidi w:val="0"/>
+        <w:jc w:val="left"/>
+        <w:spacing w:after="6" w:line="270" w:lineRule="exact"/>
+        <w:ind w:left="20" w:right="0" w:firstLine="0"/>
+      </w:pPr>
+      <w:bookmarkStart w:id="1" w:name="bookmark1"/>
+      <w:r>
+        <w:rPr>
+          <w:lang w:val="en-US"/>
+          <w:w w:val="100"/>
+          <w:color w:val="000000"/>
+          <w:position w:val="0"/>
+        </w:rPr>
+        <w:t xml:space="preserve">EXCLUSION OF SPOUSE, DEPENDENT, OR TRUST INFORMATION — ANSWER </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rStyle w:val="CharStyle19"/>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+        <w:t>EACH</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:lang w:val="en-US"/>
+          <w:w w:val="100"/>
+          <w:color w:val="000000"/>
+          <w:position w:val="0"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> OF THESE QUESTIONS</w:t>
+      </w:r>
+      <w:bookmarkEnd w:id="1"/>
+    </w:p>
+    <w:tbl>
+      <w:tblPr>
+        <w:tblOverlap w:val="never"/>
+        <w:tblLayout w:type="fixed"/>
+        <w:jc w:val="center"/>
+      </w:tblPr>
+      <w:tblGrid>
+        <w:gridCol w:w="12218"/>
+        <w:gridCol w:w="1109"/>
+        <w:gridCol w:w="1037"/>
+      </w:tblGrid>
+      <w:tr>
+        <w:trPr>
+          <w:trHeight w:val="641" w:hRule="exact"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+            <w:tcBorders>
+              <w:left w:val="single" w:sz="4"/>
+              <w:top w:val="single" w:sz="4"/>
+            </w:tcBorders>
+            <w:vAlign w:val="top"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="Style2"/>
+              <w:framePr w:w="14364" w:wrap="notBeside" w:vAnchor="text" w:hAnchor="text" w:xAlign="center" w:y="1"/>
+              <w:widowControl w:val="0"/>
+              <w:keepNext w:val="0"/>
+              <w:keepLines w:val="0"/>
+              <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+              <w:bidi w:val="0"/>
+              <w:jc w:val="left"/>
+              <w:spacing w:before="0" w:after="0" w:line="202" w:lineRule="exact"/>
+              <w:ind w:left="180" w:right="0" w:firstLine="0"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle5"/>
+              </w:rPr>
+              <w:t>TRUSTS—Details regarding “Qualified Blind Trusts” approved by the Committee on Ethics and certain other “excepted trusts" need not be disclosed. Have you excluded from this report details of such a trust benefiting you, your spouse, or dependent child?</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+            <w:tcBorders>
+              <w:top w:val="single" w:sz="4"/>
+            </w:tcBorders>
+            <w:vAlign w:val="top"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="Style2"/>
+              <w:framePr w:w="14364" w:wrap="notBeside" w:vAnchor="text" w:hAnchor="text" w:xAlign="center" w:y="1"/>
+              <w:widowControl w:val="0"/>
+              <w:keepNext w:val="0"/>
+              <w:keepLines w:val="0"/>
+              <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+              <w:bidi w:val="0"/>
+              <w:jc w:val="left"/>
+              <w:spacing w:before="0" w:after="0" w:line="360" w:lineRule="exact"/>
+              <w:ind w:left="160" w:right="0" w:firstLine="0"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle28"/>
+                <w:vertAlign w:val="superscript"/>
+              </w:rPr>
+              <w:t>Yes</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle28"/>
+              </w:rPr>
+              <w:t>D</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+            <w:tcBorders>
+              <w:right w:val="single" w:sz="4"/>
+              <w:top w:val="single" w:sz="4"/>
+            </w:tcBorders>
+            <w:vAlign w:val="top"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="Style2"/>
+              <w:framePr w:w="14364" w:wrap="notBeside" w:vAnchor="text" w:hAnchor="text" w:xAlign="center" w:y="1"/>
+              <w:widowControl w:val="0"/>
+              <w:keepNext w:val="0"/>
+              <w:keepLines w:val="0"/>
+              <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+              <w:bidi w:val="0"/>
+              <w:jc w:val="left"/>
+              <w:spacing w:before="0" w:after="0" w:line="360" w:lineRule="exact"/>
+              <w:ind w:left="160" w:right="0" w:firstLine="0"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle28"/>
+              </w:rPr>
+              <w:t>No</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle29"/>
+                <w:lang w:val="en-US"/>
+              </w:rPr>
+              <w:t>0</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:trPr>
+          <w:trHeight w:val="850" w:hRule="exact"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+            <w:tcBorders>
+              <w:left w:val="single" w:sz="4"/>
+              <w:top w:val="single" w:sz="4"/>
+              <w:bottom w:val="single" w:sz="4"/>
+            </w:tcBorders>
+            <w:vAlign w:val="top"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="Style2"/>
+              <w:framePr w:w="14364" w:wrap="notBeside" w:vAnchor="text" w:hAnchor="text" w:xAlign="center" w:y="1"/>
+              <w:widowControl w:val="0"/>
+              <w:keepNext w:val="0"/>
+              <w:keepLines w:val="0"/>
+              <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+              <w:bidi w:val="0"/>
+              <w:jc w:val="left"/>
+              <w:spacing w:before="0" w:after="0" w:line="194" w:lineRule="exact"/>
+              <w:ind w:left="180" w:right="0" w:firstLine="0"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle5"/>
+              </w:rPr>
+              <w:t>EXEMPTION-^Have you excluded from this report any other assets, “unearned" income, transactions, or liabilities of a spouse or dependent child because they meet all three tests for exemption? Do not answer “yes” unless you have first consulted with the Committee on Ethics.</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+            <w:tcBorders>
+              <w:top w:val="single" w:sz="4"/>
+              <w:bottom w:val="single" w:sz="4"/>
+            </w:tcBorders>
+            <w:vAlign w:val="top"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="Style2"/>
+              <w:framePr w:w="14364" w:wrap="notBeside" w:vAnchor="text" w:hAnchor="text" w:xAlign="center" w:y="1"/>
+              <w:widowControl w:val="0"/>
+              <w:keepNext w:val="0"/>
+              <w:keepLines w:val="0"/>
+              <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+              <w:bidi w:val="0"/>
+              <w:jc w:val="left"/>
+              <w:spacing w:before="0" w:after="0" w:line="360" w:lineRule="exact"/>
+              <w:ind w:left="160" w:right="0" w:firstLine="0"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle28"/>
+              </w:rPr>
+              <w:t>YesQ</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+            <w:tcBorders>
+              <w:right w:val="single" w:sz="4"/>
+              <w:top w:val="single" w:sz="4"/>
+              <w:bottom w:val="single" w:sz="4"/>
+            </w:tcBorders>
+            <w:vAlign w:val="top"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="Style2"/>
+              <w:framePr w:w="14364" w:wrap="notBeside" w:vAnchor="text" w:hAnchor="text" w:xAlign="center" w:y="1"/>
+              <w:widowControl w:val="0"/>
+              <w:keepNext w:val="0"/>
+              <w:keepLines w:val="0"/>
+              <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+              <w:bidi w:val="0"/>
+              <w:jc w:val="left"/>
+              <w:spacing w:before="0" w:after="0" w:line="360" w:lineRule="exact"/>
+              <w:ind w:left="160" w:right="0" w:firstLine="0"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle28"/>
+              </w:rPr>
+              <w:t>No[</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle29"/>
+                <w:lang w:val="en-US"/>
+              </w:rPr>
+              <w:t>7</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="CharStyle28"/>
+              </w:rPr>
+              <w:t>(</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+    </w:tbl>
+    <w:p>
+      <w:pPr>
+        <w:widowControl w:val="0"/>
+        <w:rPr>
+          <w:sz w:val="2"/>
+          <w:szCs w:val="2"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:widowControl w:val="0"/>
+        <w:rPr>
+          <w:sz w:val="2"/>
+          <w:szCs w:val="2"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:sectPr>
+      <w:footnotePr>
+        <w:pos w:val="pageBottom"/>
+        <w:numFmt w:val="decimal"/>
+        <w:numRestart w:val="continuous"/>
+      </w:footnotePr>
+      <w:type w:val="continuous"/>
+      <w:pgSz w:w="11909" w:h="16834"/>
+      <w:pgMar w:top="3400" w:left="0" w:right="0" w:bottom="3400" w:header="0" w:footer="3" w:gutter="0"/>
+      <w:rtlGutter w:val="0"/>
+      <w:cols w:space="720"/>
+      <w:noEndnote/>
+      <w:docGrid w:linePitch="360"/>
+    </w:sectPr>
+  </w:body>
+</w:document>
