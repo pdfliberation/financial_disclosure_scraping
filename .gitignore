@@ -1,3 +1,5 @@
 *.pdf
 *.zip
+*.pyc
+*.pyo
 local_settings.py
