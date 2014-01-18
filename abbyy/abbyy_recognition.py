@@ -50,11 +50,11 @@ settings.OutputFormat = 'xml'
 
 # <codecell>
 
-doc_id = doc_files[0].split('.')[0]
+doc_id = '8209504'
 
 # <codecell>
 
-task = processor.ProcessImage(os.path.join(doc_dir,doc_files[0]), settings)
+task = processor.ProcessImage(os.path.join(doc_dir,doc_id+'.pdf'), settings)
 
 # <codecell>
 
